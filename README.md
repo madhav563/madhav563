@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @madhav563
-- 👀 I’m currently in my final year.
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking for Software Development Intern.
+<h1 align="center">Hey, I'm  Madhava Reddy <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<!---
-madhav563/madhav563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ## :wave: About Me 
+
