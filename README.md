@@ -22,11 +22,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-#### 🧠 AI/ML & LLM:
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1e4c8f?style=flat)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-ffc107?style=flat&logo=hugging-face&logoColor=black)
-![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat)
+🧠 AI/ML & LLM
+<table> <tr> <td align="center"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=hugging-face&logoColor=black" /> </td> <td align="center"> <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" /> </td> </tr> <tr> <td align="center"><b>OpenAI</b></td> <td align="center"><b>Hugging Face</b></td> <td align="center"><b>Transformers</b></td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/LangChain-1e4c8f?style=for-the-badge" /> </td> <td align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> </td> <td align="center"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>LangChain</b></td> <td align="center"><b>PyTorch</b></td> <td align="center"><b>scikit-learn</b></td> </tr> </table>
 
 #### 🌐 Web:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -62,7 +59,19 @@ Crafts professional outreach emails using templates and tone adaptation.
 Basic auth + CRUD functionality with login/register support.
 
 ---
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav563&show_icons=true&theme=default" alt="Madhav's GitHub Stats" />
+</p>
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav563&layout=compact" alt="Top Languages" />
+</p>
+
+---
 
 
 ### 📫 Let's Connect
