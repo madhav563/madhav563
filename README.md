@@ -82,4 +82,10 @@ Basic auth + CRUD functionality with login/register support.
 
 ---
 
+### 👁️ Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=madhav563&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 _“Code it until you automate it.”_
